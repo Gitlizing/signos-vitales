@@ -1,4 +1,11 @@
 #include <iostream>
+temperatura
+double fahrenheitACelsius(double f) {
+    return (f - 32) * 5/9;
+}
+int main() {
+ 
+
 int main() {
 
 }
@@ -11,4 +18,5 @@ clasificarFrecuencia(int lpm) {
     } else {
         return "taquicardia";
     }
+ main
 }
